@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">dataKaryawan</string>
+    <string name="nama">Nama Lengkap</string>
+    <string name="action_settings">Settings</string>
+    <string name="email">Email</string>
+    <string name="jenkel">Jenis Kelamin</string>
+    <string name="hobby">Hobby</string>
+
+</resources>
